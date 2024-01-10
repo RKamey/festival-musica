@@ -1,0 +1,11 @@
+@use 'base/variables' as v;
+
+h1 {
+    background-color: v.$negro;
+    text-transform: uppercase;
+    color: white;
+}
+
+body {
+    background-color: v.$rojo;
+}

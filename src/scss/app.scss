@@ -1,5 +1,2 @@
-$blue: green;
-
-body {
-    background-color: $blue;
-}
+@use 'base';
+@use 'contenido';

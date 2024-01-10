@@ -1,3 +1,9 @@
+h1 {
+  background-color: black;
+  text-transform: uppercase;
+  color: white;
+}
+
 body {
-  background-color: green;
+  background-color: red;
 }
